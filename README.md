@@ -17,8 +17,9 @@ The user will first clone this repository and have Node.js, Express.js, and MySq
 ## Usage
 Image
 
-[Walkthrough of MySQL Installation](https://www.youtube.com/)
-[API Routes in Insomnia](https://www.youtube.com/)
+* [Walkthrough of MySQL Installation](https://youtu.be/mv0RuqRtKZc)
+
+* [API Routes in Insomnia](https://www.youtube.com/)
 
 ## Tools
 * JavaScript
