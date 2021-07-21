@@ -15,7 +15,11 @@ The user will first clone this repository and have Node.js, Express.js, and MySq
 
 
 ## Usage
+### Image of MySQL Installation 
 <img width="1363" alt="mysql 3001" src="https://user-images.githubusercontent.com/81194686/126506962-4e220b28-5907-4f66-9b89-9766cef1f79c.png">
+
+### Demo Insomnia Image 
+![Insomnia image](https://user-images.githubusercontent.com/81194686/126508026-d59fddcc-6048-4608-877e-0d502775118d.png)
 
 
 * [Walkthrough of MySQL Installation](https://youtu.be/mv0RuqRtKZc)
