@@ -15,11 +15,12 @@ The user will first clone this repository and have Node.js, Express.js, and MySq
 
 
 ## Usage
-Image
+<img width="1363" alt="mysql 3001" src="https://user-images.githubusercontent.com/81194686/126506962-4e220b28-5907-4f66-9b89-9766cef1f79c.png">
+
 
 * [Walkthrough of MySQL Installation](https://youtu.be/mv0RuqRtKZc)
 
-* [API Routes in Insomnia](https://www.youtube.com/)
+* [API Routes in Insomnia](https://youtu.be/wuEbaVQOdlE)
 
 ## Tools
 * JavaScript
